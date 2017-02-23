@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4cc0565e2b5bc4d6ca70975d46fc69f9
+timeCreated: 1487855397
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bolt: {instanceID: 0}
+  - spawnPos: {instanceID: 0}
+  - fire: {fileID: 8300000, guid: bf75b984df8a84987bcf3a8bf6e2862d, type: 3}
+  - audio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
